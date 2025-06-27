@@ -11,3 +11,5 @@ chromadb
 langchain_openai
 pydantic
 langchain_output_parser
+langchain-chromadb
+langchain_groq
